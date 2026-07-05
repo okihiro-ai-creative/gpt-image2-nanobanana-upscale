@@ -1,6 +1,6 @@
 # gpt-image2-nanobanana-upscale
 
-Created by OKIHIRO — AI自動化ワークフローを100個以上開発・運用しています。
+Created by OKIHIRO — AI自動化ワークフローを130個以上開発・運用しています。
 
 `gpt-image2-nanobanana-upscale` は、GPT Image 2で生成した完成画像をNano Banana Proで崩さずアップスケール・クリーンアップするためのプロンプトテンプレートスキルです。
 
